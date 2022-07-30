@@ -1,3 +1,3 @@
 # sopi
 
-This repository is for selenium automation using c#
+This repository is for selenium automation using java
